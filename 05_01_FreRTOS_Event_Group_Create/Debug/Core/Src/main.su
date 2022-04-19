@@ -1,0 +1,8 @@
+core_cm4.h:2064:26:ITM_SendChar	16	static,ignoring_inline_asm
+main.c:12:5:_write	32	static
+main.c:27:6:TaskA	24	static
+main.c:39:6:TaskB	32	static
+main.c:73:5:main	16	static
+main.c:101:6:SystemClock_Config	88	static
+main.c:135:13:MX_GPIO_Init	16	static
+main.c:144:6:Error_Handler	4	static,ignoring_inline_asm

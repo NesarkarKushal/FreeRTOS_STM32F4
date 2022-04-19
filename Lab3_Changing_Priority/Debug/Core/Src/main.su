@@ -1,0 +1,7 @@
+main.c:11:6:Func1	16	static
+main.c:23:6:Func2	16	static
+main.c:34:6:Func3	16	static
+main.c:58:5:main	104	static
+main.c:95:6:SystemClock_Config	88	static
+main.c:135:13:MX_GPIO_Init	32	static
+main.c:154:6:Error_Handler	4	static,ignoring_inline_asm

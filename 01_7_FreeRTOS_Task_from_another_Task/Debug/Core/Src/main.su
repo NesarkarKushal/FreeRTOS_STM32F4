@@ -1,0 +1,8 @@
+core_cm4.h:2064:26:ITM_SendChar	16	static,ignoring_inline_asm
+main.c:7:5:_write	32	static
+main.c:28:5:main	16	static
+main.c:49:7:vBlueLedControllerTask	24	static
+main.c:93:7:vRedLedControllerTask	24	static
+main.c:104:7:vOrangeLedControllerTask	24	static
+main.c:117:7:vGreenLedControllerTask	24	static
+main.c:129:6:GPIO_Init	40	static

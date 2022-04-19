@@ -1,0 +1,8 @@
+core_cm4.h:2064:26:ITM_SendChar	16	static,ignoring_inline_asm
+main.c:9:5:_write	32	static
+main.c:30:7:vBlueLedControllerTask	16	static
+main.c:46:7:vRedLedControllerTask	16	static
+main.c:66:5:main	16	static
+main.c:101:6:SystemClock_Config	88	static
+main.c:136:13:MX_GPIO_Init	48	static
+main.c:169:6:Error_Handler	4	static,ignoring_inline_asm

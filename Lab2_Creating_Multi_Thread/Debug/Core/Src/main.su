@@ -1,0 +1,6 @@
+main.c:12:6:StartDefaultTask	16	static
+main.c:24:6:StartDefaultTask1	16	static
+main.c:33:5:main	72	static
+main.c:54:6:SystemClock_Config	88	static
+main.c:89:13:MX_GPIO_Init	32	static
+main.c:109:6:Error_Handler	4	static,ignoring_inline_asm
